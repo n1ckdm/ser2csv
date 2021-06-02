@@ -1,0 +1,4 @@
+pyserial
+typer[all]
+pytest
+pytest-mock
