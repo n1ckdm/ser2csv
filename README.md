@@ -13,5 +13,5 @@ install.ps1
 ```bash
 python ser2csv.py --help
 # Read data from COM1 continuously for 5 seconds at 0.1 second intervals:
-python .\ser2csv.py --time-secs 5 delta-t 0.1 COM1
+python .\ser2csv.py --time-secs 5 --delta-t 0.1 COM1
 ```
